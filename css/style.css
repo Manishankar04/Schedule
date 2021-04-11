@@ -1,0 +1,84 @@
+body {
+  font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  background-color: #efefef; }
+
+p {
+  color: #b3b3b3;
+  font-weight: 300; }
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+
+a {
+  -webkit-transition: .3s all ease;
+  -o-transition: .3s all ease;
+  transition: .3s all ease; }
+  a, a:hover {
+    text-decoration: none !important; }
+
+.content {
+  padding: 7rem 0; }
+
+h2 {
+  font-size: 20px; }
+
+.form-control:active, .form-control:focus {
+  outline: none;
+  -webkit-box-shadow: none;
+  box-shadow: none; }
+
+#calendar {
+  max-width: 900px;
+  margin: 0 auto; }
+  #calendar .fc-view-container {
+    padding: 30px;
+    background-color: #fff;
+    -webkit-box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.2); }
+#banner_image{
+    padding-top: 75px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(img/intro.jpg);
+    background-size: cover;
+}
+#banner_content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 22%;
+    margin-bottom: 12%;
+    margin-left:16%; 
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+}
+.containers{
+    margin-top:8%; 
+    margin-left:30%; 
+    
+}
+footer{
+    padding-left:400px;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 10%;
+    width: 100%;
+}
+
+.footers{
+    margin-top:15%; 
+}
+.footerss{
+    margin-top:30%; 
+}
+.footersss{
+    margin-top:50%; 
+}
+.footerssss{
+    margin-top:50%;
+}
+.footersssss{
+    margin-top:5%; 
+}
